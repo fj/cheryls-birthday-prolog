@@ -1,4 +1,9 @@
 /*
+   See blog post here for more details: http://jxf.me/entries/cheryls-birthday/
+*/
+
+
+/*
    Cheryl's Birthday
 
    A and B have just met Cheryl. "When is your birthday?" A asked Cheryl.
